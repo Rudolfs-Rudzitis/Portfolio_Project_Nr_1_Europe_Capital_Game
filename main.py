@@ -11,7 +11,8 @@ turtle.shape(image)
 data = pandas.read_csv("european_capital.csv")
 all_capitals = data.capital.to_list()
 
-def get_mouse_click_coor(x, y):  # Get hold of capital x and y coordinates
+# Get hold of capital x and y coordinates
+def get_mouse_click_coor(x, y):  
     print(x, y)
 turtle.onscreenclick(get_mouse_click_coor)
 
