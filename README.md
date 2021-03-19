@@ -1,5 +1,5 @@
 # "Capify"
-"Capitfy" is a game where users can test their General knowledge about capital cities in Europe by naming all of them.
+"Capify" is a game where users can test their geographical knowledge about capital cities in Europe.
 
 ## Hot to run the game:
 1. Either fork or download the game 
